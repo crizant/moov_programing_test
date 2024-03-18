@@ -3,6 +3,7 @@
 ### Prerequisites
 
 - Flutter 3.19.3
+- Android emulator or iOS simulator
 
 ### Setup
 
@@ -41,7 +42,7 @@ flutter pub get
 
 ### Run
 
-Open an iOS simulator or an Android emulator, run:
+Open the Android emulator or iOS simulator, run:
 
 ```
 flutter run
